@@ -1,0 +1,529 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bateman's tragedy; or, the perjur'd bride justly rewarded Being the history of the unfortunate love of German's wife and young Bateman.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1701</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76105</idno>
+            <idno type="STC">Wing B1098A</idno>
+            <idno type="STC">ESTC N69888</idno>
+            <idno type="EEBO-CITATION">99899890</idno>
+            <idno type="PROQUEST">99899890</idno>
+            <idno type="VID">133488</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76105)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133488)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2470:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bateman's tragedy; or, the perjur'd bride justly rewarded Being the history of the unfortunate love of German's wife and young Bateman.</title>
+               </titleStmt>
+               <extent>23, [1]p. : ill (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>printed by and for C. Brown, and T. Norris, and sold by the booksellers of Pye-corner and London-Bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[ca. 1701?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing B1098A cancelled in Wing (CD-ROM edition) which reports date of publication as post 1700.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:133488:1"/>
+            <pb facs="tcp:133488:1"/>
+            <p>
+               <hi rend="blackletterType">Bateman's Tragedy;</hi> OR, THE Perjur'd Bride juſtly Rewarded: BEING THE HISTORY OF The Unfortunate LOVE OF <hi>German</hi>'s Wife and young <hi>Bateman.</hi>
+            </p>
+            <figure>
+               <figDesc>above, Bateman hanging on the other side of the door from bride and groom; below, spirit carrying off bride from childbed</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed by and for <hi>C. Brown,</hi> and <hi>T. Norris,</hi> and ſold by the Bookſellers of <hi>Pye-corner</hi> and <hi>London-Bridge.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:133488:2"/>
+            <pb facs="tcp:133488:2"/>
+            <head>
+               <hi rend="blackletterType">Bateman's Tragedy:</hi> OR, THE Perjured Bride juſtly Rewarded.</head>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>CHAP. I.</hi> How young <hi>Bateman,</hi> riding through <hi>Clifton</hi>-Town accidentally eſpied fair <hi>Iſabella,</hi> a rich Farmer's Daughter, ſtanding at her Father's Door, and fell in love with her, enquiring who ſhe was, and his Reſolves to let her know his Paſſion.</head>
+               <p>WE find that ſolemn Vows and Promiſes are of great Weight, and ſtrictly binding, by the ſevere notice God has taken of thoſe that have violated them, in puniſhing the Diſhonour done to his Name, by various and fearful Judgments; and that People may be more care<g ref="char:EOLhyphen"/>ful for the future, not to make any Vows or ſolemn Promiſes they are prone to break, or intend not to keep, I ſhall in<g ref="char:EOLhyphen"/>ſtance one diſmal Example of God's Anger in this kind ſo dreadful a Manner, that all <hi>England</hi> has not only heard it with Admiration, but ſtood aſtoniſhed at it.</p>
+               <p>
+                  <hi>James Bateman,</hi> Son to a Gentleman of <hi>Nottingham-ſhire,</hi> a Perſon well Educated, but (by his Father's too much Li<g ref="char:EOLhyphen"/>berality,) of no great Fortune, riding one Day through <hi>Clifton</hi>-Town, a few Miles from <hi>Nottingham,</hi> happened to caſt his Eyes on a very comely Maid, who was ſtanding at the Door of a ſeemly Houſe, with whoſe innocent Looks and pretty Features, he was, all on a ſudden, ſo taken, that
+<pb n="4" facs="tcp:133488:3"/>he could not but make a full ſtop to gaze at her. The Maiden no ſooner perceived his Eyes were earneſtly fixed on her, but colouring her Face with a roſie Bluſh, ſhe mo<g ref="char:EOLhyphen"/>deſtly retires, no leſs ſurprized with his comely Perſonage, than he was with her charming Beauty; however, this be<g ref="char:EOLhyphen"/>ing the firſt time they had ſeen each other, neither had he Courage to make any Advances, but he paſſed on about his Affairs to a Town fifteen miles beyond that, but in a man<g ref="char:EOLhyphen"/>ner without a Heart, for he had left that (as Lovers term it) with his fair Miſtreſs.</p>
+               <figure>
+                  <figDesc>fair maiden at left; gentleman on horse at right</figDesc>
+               </figure>
+               <p>All the Way he rode his thoughts, were ſtrangely confu<g ref="char:EOLhyphen"/>ſed, ſo that he laboured to compoſe them, but in vain; he found now though he had formerly made a Jeſt of Love, and laughed at his Companions for declaring their Paſſions, that he was taken in that Net he had perſwaded others ſo of<g ref="char:EOLhyphen"/>ten to break, and that the more he ſtrugled, the faſter he found himſelf entangled, the Buſineſs he went about was minded but little, and his ſighs and reſtleſſneſs made his Friends conclude him in much diſorder; yet he cunningly
+<pb n="5" facs="tcp:133488:3"/>concealed the cauſe from them, who little ſuſpected it, con<g ref="char:EOLhyphen"/>ſidering his former freeneſs of Temper and airy courſe of living, that Love could be any ingredient in this ſudden al<g ref="char:EOLhyphen"/>teration; ſo that finding, however, the Contagion had ſeized the Mind more than the Body, they concluded it might proceed from the decay of his Fortune; whereupon, that he might not be dejected, they proffered him their aſſiſtance and ſervice in any thing he would command them. Whilſt theſe things paſſed, he was urgent to return home, and did ſo, enquiring by the way, who this ſair Maid was, and the condition of her Parents, and found ſhe was Daughter to a covetous old rich Farmer, who had refuſed many conſidera<g ref="char:EOLhyphen"/>ble Matches, in hopes to prefer her higher, by the means of her Beauty, and the many Bags he intended to beſtow upon her as a Portion; and further, that he kept a very ſtricct Hand over her to prevent her being ſtolen away. This ſtruck him almoſt with the Horrors of Deſpair; yet ſomething he reſol<g ref="char:EOLhyphen"/>ved to do, but what at preſent he could not frame in his Mind; and ſo home he went, to conſider prudently how to manage his Love-affair, that at the firſt he might not by an over-raſh Addreſs, daſh all his future hopes of Happineſs: In contriving which, we will leave him a while, to conſider the condition wherein he left fair <hi>Iſabella,</hi> the Farmer's Daughter.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="6" facs="tcp:133488:4"/>
+               <head>
+                  <hi>CHAP. II.</hi> How the fair <hi>Iſabella</hi> fell ſick of Love for <hi>Bateman,</hi> though a Stranger, and his abode unknown to her; and how, when ſhe was given over, he came in the Habit of a Phyſician, diſco<g ref="char:EOLhyphen"/>vered himſelf to her, and ſhe recovered by that means her Health, to the unſpeakable Joy of her Parents.</head>
+               <figure>
+                  <figDesc>maiden on her sickbed, attended by several humans and an angel</figDesc>
+               </figure>
+               <p>THis beauteous Maid, who, though often courted, had ſtood Proof againſt the Sighs, Tears and Intreaties of many handſom young Batchelors, found now ſhe ſtood in need of Pity herſelf, <hi>Bateman</hi>'s Idea was ſo fixed in her Mind, that ſleeping or waking, ſhe fancied him always in her ſight; ſhe made private enquiries, by the Deſcription ſhe gave of him, but not any ſhe converſed with could ſatisfie her in that particular, ſome gueſſing at one, and ſome at another, as their Fancies led them; ſo that Love ſtill blowing the hidden Fire, ſhe firſt grew regardleſs of the Domeſtick Affairs, of which her Father and Mother had made her Overſeer; then her Appetite failed, and, after that, ſhe fell into a languiſh<g ref="char:EOLhyphen"/>ing Diſeaſe, which cauſed great Heavineſs in the Family:
+<pb n="7" facs="tcp:133488:4"/>Phyſicians were ſent for to adviſe withal, but all their Skill proved ineffectual; for, according to the old Proverb,</p>
+               <q>
+                  <l>Where Love's in the Caſe,</l>
+                  <l>The Doctor's an Aſs.</l>
+               </q>
+               <p>So that the Father and Mother, fearing to loſe their only Daughter, which they doted on, and prized above all the valuable things in the World, were in a manner at their Wits-end, wringing their Hands and ſhedding many woful Tears.</p>
+               <p>Whilſt they were in this pitious plight, and the ſighing Maiden concealed the inward Flame, that conſumed her Health, had waſted her Spirits, one, in the Habit of a Phy<g ref="char:EOLhyphen"/>ſician, mounted on a ſtately Steed, came riding to the Gate, and deſired to ſpake with Mr. <hi>Gifford,</hi> for that was the Fa<g ref="char:EOLhyphen"/>ther's Name. The old Man came quickly to him, with a heavy Countenance, and the marks of Tears on his aged Cheeks, demanding, what brought him to ſo ſorrowful a place, and what he required? <hi>Truly, Sir,</hi> ſays he, <hi>I came out of compaſſion to the Affliction of your Family, for being at an Inn in the Town, and hearing your Daughter was ſick, who is your only Delight and Darling, and whoſe Death might bring you un<g ref="char:EOLhyphen"/>timely to your Grave, divers Phyſicians having uſed their Skill in vain; if you will accept of my Advice, and ſhe be willing to take what I ſhall direct, I doubt not, but by the Bleſſin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of God upon my many Years Study in Phyſick, and Travels in divers Countries, ſo to order things that her Health will be reſtored in a few Days.</hi>
+               </p>
+               <p>The Father, upon this unexpected Viſit of a Stranger, concluded it was ſome good Angel directed to him by a wonderful Providence, ſcarcely refraining from falling on his Knees, or able to ſpeak for Joy; but, after a little reco<g ref="char:EOLhyphen"/>very from this kind of Tranſport, he invited him in, in a loving manner; and, as this new Doctor had deſired, order<g ref="char:EOLhyphen"/>ed
+<pb n="8" facs="tcp:133488:5"/>all others out of the Chamber: The Love ſick Maid no ſooner fixed her Eyes on him, but ſhe knew him, and fetching a deep ſigh, fainted away; but he revived her with ſome Cordials he had brought; ſo that recovering her Senſes, her Bluſhes overcame her Paleneſs, and made a very ſtrange Alteration in her Countenance.</p>
+               <p>To be brief, he having before gueſſed at, and being now fully aſſured of the Cauſe of her Diſtemper, told her the End of his coming in that Diſguiſe, intreating her to cheer up, and pouring out his paſſionate Love-expreſſions, mingled with Tears, to ſee her in ſuch a low condition, they at laſt ſo well underſtand one another's Mind, that having made a few Viſits to her for four or five Days, and ordered her ſuch things as are proper to reſtore decayed Nature, her Health returned, and the Roſes flouriſhed again in her Cheeks, to Wonder and Admiration; at which, the Father overjoyed, embraced this ſeeming Phyſician, and offered him a handful of Gold; but he refuſed, only deſiring leave to viſit him, as he happened to paſs by his Houſe on Occaſions: And ſo at this time they parted, with high Satisfaction on all Hands, eſpecially of the young Couple.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>
+                  <hi>CHAP. III.</hi> How being invited to her Father's Houſe, he walked abroad with and diſcovered his Paſſion to her at large; of the Encou<g ref="char:EOLhyphen"/>ragement he found to proceed in his Suit, and the Pro<g ref="char:EOLhyphen"/>ſpect there was of a happy Marriage between them.</head>
+               <p>YOung <hi>Bateman,</hi> having thus, as he thought, made a thorough ſtept to his future Happineſs, went home filled with Joy, but delayed not long to re-viſit his lovely Patient in the ſame Habit, taking an Opportunity after Din<g ref="char:EOLhyphen"/>ner, to walk with her in the Garden; where, after a turn or two, ſitting down in a pleaſant ſhady Bower, they began to talk of Love, and of the laſt Adventure, devouring each
+<pb n="9" facs="tcp:133488:5"/>other in a manner with their eager Looks, kiſſing and uſing all the modeſt Freedom that Lovers, whoſe Hearts were ſo united and enflamed, could wiſh or deſire; and after ſome interrupting Sighs had paſſed, claſping his Arme about her ſnowy Neck: <hi>Ah! lovely</hi> Iſabella, crys he, <hi>how bleſſed am I to have this Opportunity, to tell you how much and how dearly I love you; you are the only Jewel in Nature, that I prize; and could I but be poſſeſſed of your lovely ſelf, I ſhould think my ſelf the happieſt of all Mankind.</hi>
+               </p>
+               <p>At this, turning her Eyes with lovelineſs on him, and bluſhing with a Virgin-grace, ſhe told him, That <hi>ſince he had been ſo kind to come timely and ſave her Life, ſhe thought ſhe could do no leſs than recompence him any lawful and reaſon<g ref="char:EOLhyphen"/>able way he could deſire; for though many courted her, ſhe was engaged to none.</hi>
+               </p>
+               <p>Upon this encouragement, he preſſing her further, and vowing eternal Love and Conſtancy, ſhe not only ſeemed by her kind Glances, and ſuffering him with willingneſs to lay his Head in her Boſom, to give her Conſent to a ſpeedy Marriage, but likewiſa told him, That this being the firſt time he asked her to render her ſelf up to him, it was but all the Reaſon in the World for Virgin modeſty, and a Compli<g ref="char:EOLhyphen"/>ance with Cuſtom, that he ſhould give her ſome time to con<g ref="char:EOLhyphen"/>ſider of ſo weighty a Matter, which ſhould, as ſhe aſſured him, turn no ways to his Prejudice; For, continued ſhe, my Obedience to my Parents, that yet I never diſobeyed, muſt be continued, they muſt know of your Pretentions; ſeveral very rich and likely Men court me at preſent, yet fear not my Good-liking.</p>
+               <p>This ſo over joyed young <hi>Bateman,</hi> that he would immedi<g ref="char:EOLhyphen"/>ately have gone to her Parents and asked that Jewel of them, whoſe precious Life they could not but conclude, he, next to Heaven, had ſaved and continued to them; but ſhe oppoſed it, ſaying, She would prepare the way herſelf; and there<g ref="char:EOLhyphen"/>fore
+<pb n="10" facs="tcp:133488:6"/>the next Viſit he payed, it would prove new to them, and conſequently more welcome. So, riſing from their Seats, they went into the Houſe, where a ſplendid Treat was provided, and they ſat over-againſt each other at the Table, feeding on Love with their Eyes with greater Con<g ref="char:EOLhyphen"/>tentmen than on the Dainties; but, Supper ended, and Night coming on, <hi>Bateman</hi> took his leave; when at part<g ref="char:EOLhyphen"/>ing the old Farmer invited him to a Publick Entertainment, that was to be at his Houſe the third Day following; which he accepted of, and ſo for that time they parted.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>
+                  <hi>CHAP. IV.</hi> How he came in his proper Garb, and with her, a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ked her Father's Conſent; but, for want of an Eſtate, was refuſed: how one <hi>Jerman,</hi> who was his Rival, attempting to kill him, was wounded by him, and how he made his Eſcape, <hi>&amp;c.</hi>
+               </head>
+               <figure>
+                  <figDesc>two men crossing swords</figDesc>
+               </figure>
+               <p>I Shall not trouble you with the Thoughts and Impatiency of the young Lovers, during the Intervene, but tell you this Feaſt was made principally to entertain a Gentleman,
+<pb n="11" facs="tcp:133488:6"/>whoſe Grand-father, a little before dying, had left him a great Eſtate, and whoſe Affections were ſtrongly placed on the fair Virgin, ſo that he had courted her long; but ſhe ſeem<g ref="char:EOLhyphen"/>ed little to regard his Addreſſes: However, the Father and Mother, charmed with the Deſire of a rich Match for their Daughter, liſtened to it; and had often by Perſwaſions, and ſometimes by Threatnings, deſired and commanded her Compliance; but ſhe with as much Tenderneſs, and Beſeech<g ref="char:EOLhyphen"/>ing, as often excuſed i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, proteſting her liking to a ſingle Life, and entreating them they would not compel her to any thing againſt her Inclination.</p>
+               <p>The Day being come, the Gueſt met, and young <hi>Bateman,</hi> reſolving now to puſh on his Suit, in his own proper Garb, came very bravely attired in the Habit of a Gentleman. The Entertainment was very ſplendid, Sea, Earth, ond Air con<g ref="char:EOLhyphen"/>tributed their Stores to furniſh out the Table with all man<g ref="char:EOLhyphen"/>ner of Dainties, as, Fiſh, Fleſh, Fowl, Fruits, <hi>&amp;c.</hi> nor was Muſick, or any thing requiſite wanting: But that which daſh'd part of the Merriment, was, that fair <hi>Iſabella,</hi> placing herſelf over againſt <hi>Bateman,</hi> the other Lover, whoſe Name was <hi>German,</hi> and, by his Years and Obſervations in Love-in<g ref="char:EOLhyphen"/>treagues, underſtanding the Language of their Eyes, in their often Gazings, the Bluſhes coming and going in his Miſtreſs's Face, and many other Signs that <hi>Cupid</hi> has lively painted perſpicuous to Lovers; his Fancy hit upon the Truth, <hi>viz.</hi> That they were deeply in Love with each other; whereupon his Countenance changed to a Sullen and Melancholly, and, throwing by what was before him, he abruptly retired from the Table, ordering his Servant to make ready his Horſe in order to be gone.</p>
+               <p>The Father and Mother were ſtartled at this, and knew not what ſhould be the Occaſion of ſo ſudden an Alteration, in a Perſon who had profeſſed ſo much Love to their Daugh<g ref="char:EOLhyphen"/>ter, and on whom he reſolved to beſtow her, and thereupon followed him into a private Room, to be better ſatisfied in
+<pb n="12" facs="tcp:133488:7"/>the Cauſe of his Diſtaff, or Diſcontent, and was ſoon ſatis<g ref="char:EOLhyphen"/>fied in it; whereupon taking his Daughter aſide, he told her what had been ſuggeſted by <hi>German.</hi> To which ſhe modeſt<g ref="char:EOLhyphen"/>ly replied, <hi>Seeing the Gentleman had ſaved her Life, when o<g ref="char:EOLhyphen"/>thers had failed ſhe thought in Conſcience ſhe could do no leſs than to give him her Love in Requital, and was reſolved, if ever ſhe married, to be his Wife.</hi> This ſtartled the old Man more and more, and <hi>Bateman</hi> miſtruſting what had happened, coming in in the interim, and being demanded by the Father, if he made Love to his Daughter, boldly owning it, and deſired his Conſent to have her in Marriage.</p>
+               <p>
+                  <hi>How!</hi> ſays the old Man, <hi>You that are a Stranger, make Love to my Daughter, and without my Knowledge? You may, for all your fine Gegaws, be a Beggar, for ought I know: I intend to give her a great Fortune, and therefore reſolve to have her mar<g ref="char:EOLhyphen"/>ried to one that can ſettle a good Joynter en her: Pray what E<g ref="char:EOLhyphen"/>ſtate have you?</hi>
+               </p>
+               <p>
+                  <hi>Truly,</hi> replied <hi>Bateman, I am rich in Love towards her, but for Eſtate I cannot boaſt of much; I was born a Gentleman, but without the Fortune to maintain it; my Parents were unfortunate and left me but Little, yet I hope that Little, with your Bleſſing, and oua Love, will woe Providence to be ſo kind, that our Endea<g ref="char:EOLhyphen"/>vours may not fail to make us Happy, and you not repine, to give me this fair Creature to be my Wife.</hi>
+               </p>
+               <p>Upon this, he was going to take her by the Hand, and Seal his Love with a Kiſs; but the old Dad ſtept between them, in an angry manner, crying, <hi>Poh, poh; ſtand off, Sir; a Gen<g ref="char:EOLhyphen"/>tleman without an Eſtate, is like a Pudding without Fat; you have indeed done my Daughter a Kindneſs in recovering her Health, but for having her to you Wife, I must beg your Pardon, ſhe is Meat for your Betters.</hi>
+               </p>
+               <p>Upon this, <hi>Bateman</hi>'s Anger began to ariſe into ſome lit<g ref="char:EOLhyphen"/>tle Reproaches, but whilſt he was upbraiding his expected Father with Ingratitude, in ruſhes <hi>German,</hi> who had heard in the next Room what had paſſed, with his drawn Sword,
+<pb n="13" facs="tcp:133488:7"/>and made a full Paſs at him; but he nimbly put it aſide, and drawing, wounded him in the Breaſt, whereupon he fell dead to the Ground; and thereupon <hi>Bateman</hi> was forced to make his Eſcape, to gain time for further Conſideration of what was to be done.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>
+                  <hi>CHAP. V.</hi> How, being baniſhed her Father's houſe, his love Miſtreſs, up<g ref="char:EOLhyphen"/>on ſending a Letter, came to him in Diſguiſe, in a Neighbour<g ref="char:EOLhyphen"/>ing Wood, and there they ſealed their Love, by Solemn Vows, and breaking a piece of Gold between them.</head>
+               <figure>
+                  <figDesc>maiden (left) and gentleman (right), outdoors</figDesc>
+               </figure>
+               <p>FAir <hi>Iſabella,</hi> upon this unexpected accident, being left all in Tears as well as the reſt of the Family in Fear and Confuſion, Surgeons were ſent for, who upon ſearching the Wound, gave Hopes of their Patient's Recovery; yet <hi>Bateman,</hi> fearing the worſt abſented himſelf from his Dwel<g ref="char:EOLhyphen"/>ling, and got, one Evening, a travelling Pedler, for a good
+<pb n="14" facs="tcp:133488:8"/>Reward, to deliver a Letter to his Miſtreſs, which he did, under the Colour of coming to her Father's Houſe, to prof<g ref="char:EOLhyphen"/>fer his Wares; which was, to intreat her, if ſhe had any Pity on the Sufferings of an unfortunate Man, not only to forgive what he did in Defence of his own Life, but to meet in a Neighbouring Wood at ſuch an Hour.</p>
+               <p>She had no ſooner read it, but, reſolving to anſwer his De<g ref="char:EOLhyphen"/>ſire ſhe eſcaped in the Diſguiſe of a Milk-maid, dreſſing her<g ref="char:EOLhyphen"/>ſelf with the Maid's Apparel; when they met, (it's in vain for us to go about to deſcribe the Raptures of Joy that was between them) ſhe gave him an Account of all that had hap<g ref="char:EOLhyphen"/>pened, and how <hi>German</hi> was likely to recover: But long they dwelt not on this Theme, before they fell to that of Love, renewing their Vows of eternal Love and Conſtancy, that nothing but Death ſhould be able to ſeperate them; and, to bind it, he broke a piece of Gold, giving her the one half, and keeping the other himſelf; and then with Tears and tender Kiſſes they parted; ſhe, at the Farewel, which proved a ſad one, intreated him to travel a few Weeks, and give her No<g ref="char:EOLhyphen"/>tice where he was ſecretly, and ſhe would ſend him word, as to the recovery, or danger of his Rival; to which he conſent<g ref="char:EOLhyphen"/>ed with much alacrity.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>
+                  <hi>CHAP. VI.</hi> How, upon her coming back, her going was diſcovered, and ſhe confined to her Chamber, which <hi>German</hi> courting her with Tears, Preſents, and the Proffer of a great Eſtate; ſhe, at the Inſtance of her Parents, renounced her Vows, ſent back the broken Gold, and married <hi>German,</hi> whereupon <hi>Bateman</hi> hang<g ref="char:EOLhyphen"/>ed himſelf.</head>
+               <p>THe beautious Virgin, during her Abſence, having been miſſed at home, and much, enquired after, at her return, by reaſon of the unſeaſonableneſs of the time, was ſuſpected of what had happen'd; and altho' ſhe modeſtly denied it,
+<pb n="15" facs="tcp:133488:8"/>ſhe was confined to her Chamber, and an old Nurſe ſet upon her as a Guard; ſo that <hi>Bateman's</hi> Letters were intercepted, and ſhe loſt the opportunity of writing to him. In the mean while <hi>German</hi> was recovered, and admired to court her, whoſe addreſſes for a long time ſhe reſiſted: but at laſt, O the Inconſtancy of Women! notwithſtanding her Vows to be <hi>Bateman, Alive or Dead,</hi> and many other Proteſtations, the Glittering of the Miſer's Gold, the Perſwaſions &amp; Threats of her Father, and her Mother's Tears, with fine Treats &amp; rich Preſentations, prevailed with her to alter her Mind; and, by Inſtigation of theſe three to write to <hi>Bateman</hi> a Letter, where<g ref="char:EOLhyphen"/>in ſhe deteſted his Love; which, however, ſhe could not do, without blotting the Paper with Tears, and great Reluctan<g ref="char:EOLhyphen"/>cy of Mind. This Letter found him many Miles off a hun<g ref="char:EOLhyphen"/>ting; but, upon the reading it, his Spirits was daſhed, and a chill ſtruck to his Heart: However, though he knew her Hand, he flattered himſelf in believing it was to puniſh him for his ſo long abſence, or that ſhe was compelled to do it; however, fearing the worſt, he haſted the next Morning to <hi>Clifton,</hi> and hearing the Bells ringing merrily, his Heart miſ<g ref="char:EOLhyphen"/>gave him; however, he had the Courage to enquire the Cauſe, which proved a fatal One.</p>
+               <p>That Morning he was informed ſhe was married to his Rival; then in a rage he began to curſe his Stars, and all Wo<g ref="char:EOLhyphen"/>man-kind; oft he thought to fall on his Sword; but then Deſire of Revenge interpoſed, not to fall alone, but to Sacri<g ref="char:EOLhyphen"/>fice the Bridegroom, and then himſelf: After ſomewhat milder Reſolutions came into his Mind, that he in this should give cauſe of Grief to his Miſtreſs; yet, to let know his Re<g ref="char:EOLhyphen"/>ſentments, he ſent her a Letter with the half piece of Gold in it which found her Dinner, and made her be taken away ſick from the Table; however, she was comforted with Cordial, Joy of a Bridial-night, riding in a Coach, and great Eſtate, paſſed it over, and to Bed they went when Night came.</p>
+               <pb n="16" facs="tcp:133488:9"/>
+               <p>
+                  <hi>Bateman,</hi> receiving no anſwer, took it as a farther Slight, and ſo entring on a deſperate Reſolve, he ſtole into the Houſe privately, as knowing the way, and hiding himſelf in a Clo<g ref="char:EOLhyphen"/>ſet by the Bridal Chamber-door, hanged himſelf before the Door, where he was found, to their great Horror and A<g ref="char:EOLhyphen"/>mazement, upon opening the Door the next Morning, with this Diſtitch on his breaſt:</p>
+               <q>
+                  <l>Falſe Woman, of thy Vows and Oaths have dread,</l>
+                  <l>For thou art mine by them, alive or dead.</l>
+               </q>
+            </div>
+            <div n="7" type="chapter">
+               <head>
+                  <hi>CHAP. VII.</hi> How, upon <hi>Bateman</hi>'s hanging himſelf before her Chamber-door, ſhe grew melancholy, always fancying ſhe ſee him with a ghaſtly face, putting her in mind of her broken Vows; and bow, ufter being delivered of a Child, a Spirit carried her away.</head>
+               <figure>
+                  <figDesc>above, Bateman hanging on the other side of the door from bride and groom; below, spirit carrying off bride from childbed</figDesc>
+               </figure>
+               <p>THis not only Diſcompoſed the Mirth of the Wedding, and made the Bride exceeding melancholy, but the
+<pb n="17" facs="tcp:133488:9"/>enſuing Night dreadful Cries and Screeks were heard, as if Hell had been brooke looſe, blazing Lights oft flaſhed in the Eyes of the new-married Pair, as they lay entwined in each others Arms followed with a dreadful Cry, <hi>Thou art mine dead or alive.</hi> This made them haſtily remove to the Husband's Houſe ſome miles diſtant; but the ſame Hunting purſued them, and where-ever ſhe went, ſhe thought the Spi<g ref="char:EOLhyphen"/>rit of <hi>Bateman</hi> appeared to her, holding the broken Gold in a String, and upbraiding her with her Breach of Faith: The Curtains were often draw violently when they were in Bed, and the former Cry continued, till at laſt, ſhe proving with Child, the Spirit came in a more furious manner, to bid her prepare to go with him, as ſoon as ſhe was delivered; at which, weary of her Life, ſtretching out her Arms ſhe cried, <hi>I am thine by right, ond am ready to go along with thee.</hi>
+               </p>
+               <p>
+                  <hi>No,</hi> replied he, <hi>the innocent Babe in thy Womb protects thee, that I cannot have thee till thou art Delivered.</hi>
+               </p>
+               <p>Thus ſhe continued in Sorrow and Fear, having many Di<g ref="char:EOLhyphen"/>vines to pray with her, but it availed not; for the time of her Delivery being come, which ſhe deſired might be pro<g ref="char:EOLhyphen"/>longod, tho' in Pain, her Mother and divers other Women watched with her, which ſhe earneſtly begged of to pray, and not by any Means to fall aſleep; however, a ſudden Drowſineſs about Midnight, in ſpight of all they could do, o<g ref="char:EOLhyphen"/>vercame them, till wakened with a dreadful Cry, they found the Candles out, and feeling for the Child-bed-woman, ſhe wae miſſing; the Caſement being burſt in pieces, and a ſtrong ſmell of Sulpher left in the Room: The Town's People affirmed, they heard great Cries and Screeks in the Air, ac<g ref="char:EOLhyphen"/>companied with a Clap of Thunder, and a Clap of Lightning about that time; however, ſhe was never after heard on, though much ſought for.</p>
+            </div>
+         </div>
+         <div type="ballad">
+            <pb n="18" facs="tcp:133488:10"/>
+            <head>A Godly Warning to all Maidens by the Eample of God's Judgment ſhewed on <hi>Jerman</hi>'s Wife of <hi>Clif<g ref="char:EOLhyphen"/>ton,</hi> in the County of <hi>Nottingham,</hi> who lying in Child-bed, was borne away, and never heard of after.</head>
+            <opener>To the Tune of, <hi>The Lady's Fall,</hi> &amp;c.</opener>
+            <p>
+               <figure>
+                  <figDesc>above, Bateman hanging on the other side of the door from bride and groom; below, spirit carrying off bride from childbed</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>YOu dainty Dames ſo finely fram'd,</l>
+               <l>of Beauty's chiefeſt mould,</l>
+               <l>And you that trip it up and down,</l>
+               <l>like lambs in <hi>Cupid</hi>'s ſold,</l>
+               <l>Here is a leſſon to be learn'd,</l>
+               <l>a leſſon in my mind,</l>
+               <l>For ſuch as will prove falſe in love,</l>
+               <l>and bear a faithleſs mind:</l>
+            </lg>
+            <pb n="19" facs="tcp:133488:10"/>
+            <lg>
+               <l>Not far from <hi>Nottingham</hi> of late,</l>
+               <l>in <hi>Clifton,</hi> as I hear,</l>
+               <l>There dwelt a fair and comely Dame,</l>
+               <l>for beauty without Peer;</l>
+               <l>Her cheeks were like the crimſon roſe,</l>
+               <l>yet as you may perceive,</l>
+               <l>The faireſt face the falſeſt heart,</l>
+               <l>and ſooneſt will deceive.</l>
+            </lg>
+            <lg>
+               <l>This gallant Dame ſhe was belov'd</l>
+               <l>of many in that place,</l>
+               <l>And many ſought in marriage-bed</l>
+               <l>her body to imbrace:</l>
+               <l>At laſt a proper handſome Youth,</l>
+               <l>young <hi>Bateman</hi> call'd by name,</l>
+               <l>In hopes to make a married Wife,</l>
+               <l>unto this Maiden came.</l>
+            </lg>
+            <lg>
+               <l>Such love and liking there was found,</l>
+               <l>that he from all the reſt,</l>
+               <l>Had ſtol'n away the Maiden's heart,</l>
+               <l>and ſhe did love him beſt;</l>
+               <l>Then plighted promiſe ſecretly</l>
+               <l>did paſs between them two,</l>
+               <l>That nothing could but Death itſelf,</l>
+               <l>this true love's knot undo,</l>
+            </lg>
+            <lg>
+               <l>He brake a piece of gold in twain,</l>
+               <l>one half to her he gave,</l>
+               <l>
+                  <hi>The other as a pledge,</hi> quoth he,</l>
+               <l>
+                  <hi>dear Heart, my ſelf will have.</hi>
+               </l>
+               <l>
+                  <hi>If I do break my vow,</hi> quoth ſhe,</l>
+               <l>
+                  <hi>while I remain alive,</hi>
+               </l>
+               <l>
+                  <hi>May never thing I take in hand</hi>
+               </l>
+               <l>
+                  <hi>be ſeen at all to thrive.</hi>
+               </l>
+            </lg>
+            <pb n="20" facs="tcp:133488:11"/>
+            <lg>
+               <l>This paſſed on for two months ſpace,</l>
+               <l>and then this Maid began</l>
+               <l>To ſettle love, and liking too</l>
+               <l>upon another Man:</l>
+               <l>One <hi>Jerman</hi> who a Widower was,</l>
+               <l>her Huſband needs muſt be,</l>
+               <l>Becauſe he was of greater wealth,</l>
+               <l>and better in degree.</l>
+            </lg>
+            <lg>
+               <l>Her vows and promiſe lately made,</l>
+               <l>to <hi>Bateman</hi> ſhe deny'd;</l>
+               <l>And in deſpight of him and his</l>
+               <l>ſhe utterly defy'd:</l>
+               <l>
+                  <hi>Well then,</hi> quoth he, <hi>if it be ſo,</hi>
+               </l>
+               <l>
+                  <hi>that you will me forſake,</hi>
+               </l>
+               <l>
+                  <hi>And like a falſe and forſworn Wretch</hi>
+               </l>
+               <l>
+                  <hi>another Husband take:</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Thou ſhalt not live one quiet hour,</hi>
+               </l>
+               <l>
+                  <hi>for ſurely I will have</hi>
+               </l>
+               <l>
+                  <hi>Thee either now alive or dead,</hi>
+               </l>
+               <l>
+                  <hi>when I am laid in grave;</hi>
+               </l>
+               <l>
+                  <hi>Thy faithleſs mind thou ſhalt repent,</hi>
+               </l>
+               <l>
+                  <hi>therefore be well aſſur'd,</hi>
+               </l>
+               <l>
+                  <hi>When for thy ſake thou hear'st report,</hi>
+               </l>
+               <l>
+                  <hi>what torments I endur'd.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But mark how <hi>Bateman</hi> dy'd for love,</l>
+               <l>and finiſht up his life,</l>
+               <l>That very day ſhe marry'd was,</l>
+               <l>and made old <hi>Jerman</hi>'s Wife;</l>
+               <l>For with a ſtrangſing-cord, God wot,</l>
+               <l>great moan was made therefore,</l>
+               <l>He hang'd himſelf in deſperate ſort,</l>
+               <l>before the Bride's own door.</l>
+            </lg>
+            <pb n="21" facs="tcp:133488:11"/>
+            <lg>
+               <l>Whereat ſuch forrow pierc'd her heart,</l>
+               <l>and troubled ſore her mind,</l>
+               <l>That ſhe could never after that,</l>
+               <l>one day of comfort find;</l>
+               <l>And whereſoever ſhe did go,</l>
+               <l>her fancy did ſurmiſe,</l>
+               <l>Young <hi>Bateman</hi>'s pale and ghaſtly Ghoſt</l>
+               <l>appear'd before her eyes.</l>
+            </lg>
+            <p>
+               <figure>
+                  <figDesc>dark (ghostly?) figure in profile beside a door (?)</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>When ſhe in bed at night did lye,</l>
+               <l>betwixt her Huſband's arms,</l>
+               <l>In hope thereby to ſleep and reſt,</l>
+               <l>in ſafety without harms;</l>
+               <l>Great cries, &amp; grievous groans ſhe heard,</l>
+               <l>a voice that ſometimes ſaid,</l>
+               <l>
+                  <hi>O thou art ſhe that I must have,</hi>
+               </l>
+               <l>
+                  <hi>and will not be deny'd.</hi>
+               </l>
+            </lg>
+            <pb n="22" facs="tcp:133488:12"/>
+            <lg>
+               <l>But ſhe being big with Child,</l>
+               <l>was for the Infant's ſake,</l>
+               <l>Preſerved from the Spirit's power,</l>
+               <l>no vengeance could it take:</l>
+               <l>The Babe unborn did ſafely keep,</l>
+               <l>as God appointed ſo,</l>
+               <l>His Mother's body from the Fiend,</l>
+               <l>that ſought her overthrow.</l>
+            </lg>
+            <lg>
+               <l>But being of her Burden eas'd,</l>
+               <l>and ſafely brought to bed,</l>
+               <l>Her care and grief began anew,</l>
+               <l>and farther ſorrow bred:</l>
+               <l>And of her Friends ſhe did intreat,</l>
+               <l>deſiring them to ſtay,</l>
+               <l>
+                  <hi>Out of the bed,</hi> quoth ſhe, <hi>this night,</hi>
+               </l>
+               <l>
+                  <hi>I ſhall be born away.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Here comes the Spirit of my Love,</hi>
+               </l>
+               <l>
+                  <hi>with pale and gaſtly face,</hi>
+               </l>
+               <l>
+                  <hi>Who till he bear me hence away,</hi>
+               </l>
+               <l>
+                  <hi>will not depart this place;</hi>
+               </l>
+               <l>
+                  <hi>Alive or dead I am his by right,</hi>
+               </l>
+               <l>
+                  <hi>and he will ſurely have,</hi>
+               </l>
+               <l>
+                  <hi>In ſpight of me, and all the World,</hi>
+               </l>
+               <l>
+                  <hi>what I by promiſe gave.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>O watch with me this night, I pray,</hi>
+               </l>
+               <l>
+                  <hi>and ſee you do not ſleep;</hi>
+               </l>
+               <l>
+                  <hi>No longer than you be awake,</hi>
+               </l>
+               <l>
+                  <hi>my body can you keep.</hi>
+               </l>
+               <l>All promiſed to do their beſt,</l>
+               <l>yet nothing could ſuffice,</l>
+               <l>In middle of the night to keep</l>
+               <l>ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d ſlumber from their eyes.</l>
+            </lg>
+            <pb n="23" facs="tcp:133488:12"/>
+            <lg>
+               <l>So being all full faſt aſleep,</l>
+               <l>to them unknown which way,</l>
+               <l>The Child bed woman that woful night</l>
+               <l>from thence was born away;</l>
+               <l>And to what place no Creature knew,</l>
+               <l>nor to this day can tell;</l>
+               <l>As ſtrange a thing as ever yet</l>
+               <l>in any Age befel.</l>
+            </lg>
+            <lg>
+               <l>You Maidens that deſire to love,</l>
+               <l>and would good Huſbands chuſe,</l>
+               <l>To him that you do vow to love,</l>
+               <l>by no means do refuſe.</l>
+               <l>For God that hears all ſecret oaths,</l>
+               <l>will dreadful vengeance take,</l>
+               <l>On ſuch that of a wilful vow</l>
+               <l>do ſlender reckoning make.</l>
+            </lg>
+            <p>
+               <figure>
+                  <figDesc>Christ standing on top of the globe with arms outstretched; throngs of people at right and left; winged creatures in the air</figDesc>
+               </figure>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:133488:13"/>
+            <head>A Catalogue of ſeveral Delightful BOOKS, which are to be Sold by the Bookſellers of <hi>Pye-Corner</hi> and <hi>London-Bridge.</hi>
+            </head>
+            <p>There is Juſt Publiſhed,</p>
+            <p>
+               <hi>AESop's</hi> Fables, with his Life, Morale and Remarks; fitted for the meaneſt Capacities. Price Bd. 1 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>The <g ref="char:V">Ʋ</g>nfortunate Lovers:</hi> or, The Hiſtory of <hi>Argalus</hi> and <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arthenia:</hi> Containing their Amours, Misfortunes, happy, but ſhort Enjoyment of each other; with the manner of their Deaths. Price Bound 1 <hi>s.</hi>
+            </p>
+            <p>The moſt Pleaſant and Delightful Hiſtory of <hi>Reynard the Fox,</hi> and <hi>Reynardine</hi> his Son. In two Parts: With Morals to each Chapter, explaining what appears Doubtful or Allogorical: And every Chapter Illuſtrated with a curious Device or Picture. <hi>To which is added,</hi> The Hiſtory of <hi>Cawood the Rook:</hi> or, The Aſſembly of Birds: With the ſeveral Speeches they made to the <hi>Eagles</hi> in hopes to have the Government in his Abſence; and how the <hi>Rook</hi> was Baniſh'd; with the Reaſon why <hi>Craſty Fellows</hi> are called <hi>Rooks:</hi> Together with Morals and Expoſitions on every Chapter. Twelves. Price Bd 1 <hi>s.</hi>
+            </p>
+            <p>The famous and pleaſant Hiſtory of <hi>Pariſmus,</hi> the Valiant and Renowned Prince of <hi>Bohemia:</hi> In Three Parts. <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>art</hi> I. Containing his Triumphant Battles fought againſt the Perſians, his Love to the beautious <hi>Laurana,</hi> the great Dangers he paſſed in the <hi>Iſland</hi> of <hi>Rocks;</hi> and his ſtrange Adventures in the <hi>Deſolate Iſland,</hi> &amp;c. <hi>Part</hi> II. Containing the Adventures, Travels, and noble Chivalry of <hi>ariſmenos,</hi> the <hi>Knight of Fame,</hi> with his Love to the fair Princeſs <hi>Angelica,</hi> the Lady of the <hi>Goldon Tower,</hi> &amp;c. <hi>Part</hi> III. Containing the admirable Adventures and truly heroick Atchievements of <hi>Pariſ<g ref="char:EOLhyphen"/>menidas,</hi> the Knight of the <hi>Golden Star,</hi> with his Love to the fair <hi>Aſtrea,</hi> Princeſs of <hi>Auſtracia,</hi> with other ſtrange Adventures. Price Bound 1 <hi>s.</hi>
+            </p>
+            <p>The Famous and Renowned Hiſtory of <hi>Guy,</hi> Earl of <hi>Warwick:</hi> Containing a full and true Account of his many Famous and Valiant Actions, Remarkable and Brave Exploits, and Noble and Renowned Victories.</p>
+            <pb facs="tcp:133488:13"/>
+         </div>
+      </back>
+   </text>
+</TEI>
